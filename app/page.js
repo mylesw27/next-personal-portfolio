@@ -20,6 +20,9 @@ export default function Home() {
         <img src='headshot.png' className={styles.headshot}/>
       </div>
 
+      <div>
+        <h2>Projects</h2>
+      </div>
 
       <div className={styles.grid}>
         <a
